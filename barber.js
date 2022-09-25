@@ -1,3 +1,5 @@
+// start js
+
 let nav = document.getElementById("nav");
 let btn = document.getElementById("btn");
 
